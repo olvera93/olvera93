@@ -1,6 +1,5 @@
 ### Hello, my name is Gonzalo Olvera👋
-
-
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 ### INFO:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olvera93&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

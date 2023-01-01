@@ -19,7 +19,7 @@
 And more...
 
 ## Find me at:
-[![Instagram](https://img.shields.io/badge/Instagram-@olvera.gonzalo2-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/olvera.gonzalo2)
+[![Instagram](https://img.shields.io/badge/Instagram-@olvera.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/olvera.dev)
 [![Facebook](https://img.shields.io/badge/Facebook-Gonzalo_Olvera-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/gonzalo.olvera.56/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gonzalo_Olvera-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gonzalo-olvera-monroy-78540919b/)
